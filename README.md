@@ -26,6 +26,7 @@ _This project served as the program's capstone in Full-Stack Data Analytics. Usi
 ![End to end Data Analytics](/assets/img/DEEP1.png)
 
 **Description:** The objective from this analysis is ro reduce order cancellation rates by 15% from 48% in the next six months, by leveraging insights gained from comprehensive analysis of cancellation factors. <br />
+ <br />
 **Result:** Implement a comprehensive strategy to reduce order cancellation rates in Pakistan's E-commerce, including cluster-specific initiatives targeting loyal, potential and at-risk customers, along with general recommendations to improve communication, product, price and payment optimization, and a focused approach to encourage Cash usage on Delivery (COD), thereby increasing customer satisfaction and operational efficiency.
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
