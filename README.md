@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Skills: SQL (Google BigQuery), Python 3 (Libraries : Numpy, pandas, scikit-learn, Matplotlib), Tableau, Exploratory Data Analysis/Visualization (EDA/EDV), Descriptive Statistic, Cohort Analysis, Correlation Analysis, RFM Cluster Analysis, Organization skills, Leadership, Work in Team or Individually, Fast Learner, Critical Thinking.
+#### Skills: SQL (Google BigQuery), Python 3 (Libraries : Numpy, pandas, scikit-learn, Matplotlib), Tableau, EDA/EDV, Descriptive Statistic, Cohort Analysis, Correlation Analysis, RFM Cluster Analysis, Organization skills, Leadership, Work in Team or Individually, Fast Learner, Critical Thinking.
 
 
 ## Education
@@ -18,12 +18,12 @@ Commit more than 200 hours to active online lectures (excluding assignments) wit
 Completed the program with all assignments
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### End-to-end Data Analytics Final Project, RevoU (Python & Tableau)
+[Deck Here](https://docs.google.com/presentation/d/1t73Sxwp58UtHs2--A9CwiCZIzCyUs6SVvpq1YGRbVL8/edit?usp=sharing)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+_This project served as the program's capstone in Full-Stack Data Analytics. Using Spreadsheets, Python and Tableau._
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![End to end Data Analytics](/assets/img/DEEP1.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
