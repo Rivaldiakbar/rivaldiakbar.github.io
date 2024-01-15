@@ -63,12 +63,6 @@ _This project served as the individual assignment for the Data Visualization mod
 ### Individual Project
 _Individual Assignment at RevoU Full-Stack Data Analytics._
 
-[Deck Here](https://docs.google.com/presentation/d/1CjGhoDMDAOV3k68DB8BPS3_pMhxWXed4dQb61xnsVEo/edit?usp=sharing)
-[Dashboard Here](https://public.tableau.com/views/SteamExecutiveDashboard-VisualizingSteamsBusinessMetrics/STEAMEXECUTIVEDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-
-![Tableau Project](/assets/img/python_project1.png)
-
 **Spreadsheet:** <br />
 Business understanding, Data Cleaning & Manipulation, Descriptive Analytics, EDA, Regression: [Google Sheet](https://docs.google.com/spreadsheets/d/1oWXPDHNladlQcUOmKDUtNb-VjAUI8jh2hc4qq5d4yU4/edit?usp=sharing)  <br />
  <br />
