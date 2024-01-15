@@ -1,4 +1,5 @@
 # Data Analyst
+## About Me
 
 #### Skills: SQL (Google BigQuery), Python 3 (Libraries : Numpy, pandas, scikit-learn, Matplotlib), Tableau, EDA/EDV, Descriptive Statistic, Cohort Analysis, Correlation Analysis, RFM Cluster Analysis, Organization skills, Leadership, Work in Team or Individually, Fast Learner, Critical Thinking.
 
@@ -18,8 +19,10 @@ Commit more than 200 hours to active online lectures (excluding assignments) wit
 Completed the program with all assignments
 
 ## Projects
-### End-to-end Data Analytics Final Project, RevoU (Python & Tableau)
+### End-to-end Data Analytics Final Project, RevoU
 [Deck Here](https://docs.google.com/presentation/d/1t73Sxwp58UtHs2--A9CwiCZIzCyUs6SVvpq1YGRbVL8/edit?usp=sharing)
+[Code Here](https://colab.research.google.com/drive/1fdYNYKBj5hwh8cT7VgLWbOq0miBlQcEF?usp=sharing)
+[Dash Board Here](https://public.tableau.com/views/FPPAKISTANE-COMMERCE/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 _This project served as the program's capstone in Full-Stack Data Analytics. Using Spreadsheets, Python and Tableau._
 
@@ -27,34 +30,53 @@ _This project served as the program's capstone in Full-Stack Data Analytics. Usi
 
 **Description:** The objective from this analysis is ro reduce order cancellation rates by 15% from 48% in the next six months, by leveraging insights gained from comprehensive analysis of cancellation factors. <br />
  <br />
+**Task:** Understanding Business, Data Cleaning, EDA, Data Analysis, Insights Gathering & Data Visualization, Creating Presentation <br />
 **Result:** Implement a comprehensive strategy to reduce order cancellation rates in Pakistan's E-commerce, including cluster-specific initiatives targeting loyal, potential and at-risk customers, along with general recommendations to improve communication, product, price and payment optimization, and a focused approach to encourage Cash usage on Delivery (COD), thereby increasing customer satisfaction and operational efficiency.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Python Project
+[Deck Here](https://docs.google.com/presentation/d/1d8qtDYvQfkjissR584NiwgIqU73BkpQTI9H8uDehjCw/edit?usp=sharing)
+[Code Here](https://colab.research.google.com/drive/16AZZ_PcpB7B5ewmlJTUX5ve4FGs-hXfb?usp=sharing)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+_This project served as the individual assignment for the Python module's Full-Stack Data Analytics program._
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Python Project](/assets/img/python_project1.png)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+**Description:** A European bank that provides credit cards to its customers wanted a better understanding of spending patterns among its credit card-using customers. They need an analytical approach to reduce promotional costs by discovering business opportunities to customize reward programs for each customer segment using customer segmentation. <br />
+ <br />
+**Task:** Data Cleaning, Preparation, EDA and Clustering using k-means & RFM Segmentation <br />
+**Result:** "Dalam perbaikan"
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### Tableau Project
+[Deck Here](https://docs.google.com/presentation/d/1CjGhoDMDAOV3k68DB8BPS3_pMhxWXed4dQb61xnsVEo/edit?usp=sharing)
+[Dashboard Here](https://public.tableau.com/views/SteamExecutiveDashboard-VisualizingSteamsBusinessMetrics/STEAMEXECUTIVEDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+_This project served as the individual assignment for the Data Visualization module's Full-Stack Data Analytics program._
 
-- [Data Science Blog](https://medium.com/@shawhin)
+![Tableau Project](/assets/img/python_project1.png)
+
+**Description:** The most reputable gaming company named Steam. Company want to utilize more data insight to support company growth. This project's goal is to create dashboard that shows company-wide analytics to better understand business performance <br />
+ <br />
+**Task:** Provide Tableau Dashboard using filter and parameter <br />
+**Result:** Strategic insights from Game Category Analysis reveal that while free games attract a larger user base, paid games significantly contribute to revenue. To optimize profitability, I recommend prioritizing the monetization of paid games by enhancing premium features or strategically offering discounts. Additionally, findings from the Top 3 Games Ranking highlight the user preference for high-quality games, emphasizing the need for continued investment in game development to maintain or elevate quality standards and garner positive reviews.
+
+### Individual Project
+_Individual Assignment at RevoU Full-Stack Data Analytics._
+
+[Deck Here](https://docs.google.com/presentation/d/1CjGhoDMDAOV3k68DB8BPS3_pMhxWXed4dQb61xnsVEo/edit?usp=sharing)
+[Dashboard Here](https://public.tableau.com/views/SteamExecutiveDashboard-VisualizingSteamsBusinessMetrics/STEAMEXECUTIVEDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
+![Tableau Project](/assets/img/python_project1.png)
+
+**Spreadsheet:** <br />
+Business understanding, Data Cleaning & Manipulation, Descriptive Analytics, EDA, Regression: [Google Sheet](https://docs.google.com/spreadsheets/d/1oWXPDHNladlQcUOmKDUtNb-VjAUI8jh2hc4qq5d4yU4/edit?usp=sharing)  <br />
+ <br />
+**SQL/Google Big Query:** <br />
+Answering Business Question: [Deck]
+Query: [Google Big Query](https://console.cloud.google.com/bigquery?sq=463715588860:28953c32e0dc4f83bcf7c1adf1f4237e) (*sign in required)
+VjAUI8jh2hc4qq5d4yU4/edit?usp=sharing)  <br />
+
+## Certificate
+- Full-stack Data Analytics - RevoU (December, 2023)
+- Digital Marketing Certification by Badan Nasional Sertifikasi Profesi (BNSP) (November, 2022)
+
