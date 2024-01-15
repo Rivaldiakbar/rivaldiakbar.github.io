@@ -21,8 +21,8 @@ Completed the program with all assignments
 
 ## Projects
 ### End-to-end Data Analytics Final Project, RevoU
-[Deck Here](https://docs.google.com/presentation/d/1t73Sxwp58UtHs2--A9CwiCZIzCyUs6SVvpq1YGRbVL8/edit?usp=sharing)
-[Code Here](https://colab.research.google.com/drive/1fdYNYKBj5hwh8cT7VgLWbOq0miBlQcEF?usp=sharing)
+[Deck Here](https://docs.google.com/presentation/d/1t73Sxwp58UtHs2--A9CwiCZIzCyUs6SVvpq1YGRbVL8/edit?usp=sharing) <br />
+[Code Here](https://colab.research.google.com/drive/1fdYNYKBj5hwh8cT7VgLWbOq0miBlQcEF?usp=sharing) <br />
 [Dash Board Here](https://public.tableau.com/views/FPPAKISTANE-COMMERCE/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 _This project served as the program's capstone in Full-Stack Data Analytics. Using Spreadsheets, Python and Tableau._
@@ -36,7 +36,7 @@ _This project served as the program's capstone in Full-Stack Data Analytics. Usi
 **Result:** Implement a comprehensive strategy to reduce order cancellation rates in Pakistan's E-commerce, including cluster-specific initiatives targeting loyal, potential and at-risk customers, along with general recommendations to improve communication, product, price and payment optimization, and a focused approach to encourage Cash usage on Delivery (COD), thereby increasing customer satisfaction and operational efficiency.
 
 ### Python Project
-[Deck Here](https://docs.google.com/presentation/d/1d8qtDYvQfkjissR584NiwgIqU73BkpQTI9H8uDehjCw/edit?usp=sharing)
+[Deck Here](https://docs.google.com/presentation/d/1d8qtDYvQfkjissR584NiwgIqU73BkpQTI9H8uDehjCw/edit?usp=sharing) <br />
 [Code Here](https://colab.research.google.com/drive/16AZZ_PcpB7B5ewmlJTUX5ve4FGs-hXfb?usp=sharing)
 
 _This project served as the individual assignment for the Python module's Full-Stack Data Analytics program._
@@ -50,7 +50,7 @@ _This project served as the individual assignment for the Python module's Full-S
 **Result:** "Dalam perbaikan"
 
 ### Tableau Project
-[Deck Here](https://docs.google.com/presentation/d/1CjGhoDMDAOV3k68DB8BPS3_pMhxWXed4dQb61xnsVEo/edit?usp=sharing)
+[Deck Here](https://docs.google.com/presentation/d/1CjGhoDMDAOV3k68DB8BPS3_pMhxWXed4dQb61xnsVEo/edit?usp=sharing) <br />
 [Dashboard Here](https://public.tableau.com/views/SteamExecutiveDashboard-VisualizingSteamsBusinessMetrics/STEAMEXECUTIVEDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 _This project served as the individual assignment for the Data Visualization module's Full-Stack Data Analytics program._
@@ -70,9 +70,8 @@ _Individual Assignment at RevoU Full-Stack Data Analytics._
 Business understanding, Data Cleaning & Manipulation, Descriptive Analytics, EDA, Regression: [Google Sheet](https://docs.google.com/spreadsheets/d/1oWXPDHNladlQcUOmKDUtNb-VjAUI8jh2hc4qq5d4yU4/edit?usp=sharing)  <br />
  <br />
 **SQL/Google Big Query:** <br />
-Answering Business Question: [Deck]
+Answering Business Question: [Deck] <br />
 Query: [Google Big Query](https://console.cloud.google.com/bigquery?sq=463715588860:28953c32e0dc4f83bcf7c1adf1f4237e) (*sign in required)
-VjAUI8jh2hc4qq5d4yU4/edit?usp=sharing)  <br />
 
 ## Certificate
 - Full-stack Data Analytics - RevoU (December, 2023)
