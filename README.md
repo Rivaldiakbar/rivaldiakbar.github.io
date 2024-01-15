@@ -32,6 +32,7 @@ _This project served as the program's capstone in Full-Stack Data Analytics. Usi
 **Description:** The objective from this analysis is ro reduce order cancellation rates by 15% from 48% in the next six months, by leveraging insights gained from comprehensive analysis of cancellation factors. <br />
  <br />
 **Task:** Understanding Business, Data Cleaning, EDA, Data Analysis, Insights Gathering & Data Visualization, Creating Presentation <br />
+ <br />
 **Result:** Implement a comprehensive strategy to reduce order cancellation rates in Pakistan's E-commerce, including cluster-specific initiatives targeting loyal, potential and at-risk customers, along with general recommendations to improve communication, product, price and payment optimization, and a focused approach to encourage Cash usage on Delivery (COD), thereby increasing customer satisfaction and operational efficiency.
 
 ### Python Project
@@ -45,6 +46,7 @@ _This project served as the individual assignment for the Python module's Full-S
 **Description:** A European bank that provides credit cards to its customers wanted a better understanding of spending patterns among its credit card-using customers. They need an analytical approach to reduce promotional costs by discovering business opportunities to customize reward programs for each customer segment using customer segmentation. <br />
  <br />
 **Task:** Data Cleaning, Preparation, EDA and Clustering using k-means & RFM Segmentation <br />
+ <br />
 **Result:** "Dalam perbaikan"
 
 ### Tableau Project
@@ -58,6 +60,7 @@ _This project served as the individual assignment for the Data Visualization mod
 **Description:** The most reputable gaming company named Steam. Company want to utilize more data insight to support company growth. This project's goal is to create dashboard that shows company-wide analytics to better understand business performance <br />
  <br />
 **Task:** Provide Tableau Dashboard using filter and parameter <br />
+ <br />
 **Result:** Strategic insights from Game Category Analysis reveal that while free games attract a larger user base, paid games significantly contribute to revenue. To optimize profitability, I recommend prioritizing the monetization of paid games by enhancing premium features or strategically offering discounts. Additionally, findings from the Top 3 Games Ranking highlight the user preference for high-quality games, emphasizing the need for continued investment in game development to maintain or elevate quality standards and garner positive reviews.
 
 ### Individual Project
