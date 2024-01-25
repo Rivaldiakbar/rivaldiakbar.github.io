@@ -47,7 +47,7 @@ _This project served as the individual assignment for the Python module's Full-S
  <br />
 **Task:** Data Cleaning, Preparation, EDA and Clustering using k-means & RFM Segmentation <br />
  <br />
-**Result:** "Dalam perbaikan"
+**Result:** "Through segmentation using the K-Means method and RFM analysis, I succeeded in grouping customers into 3 clusters based on their purchasing behavior. It was found that “Premium Shoppers” showed high transaction activity and positive responses to exclusive promotions. Meanwhile, “Moderate Buyers” has the potential for increased engagement through more detailed segmentation, and “Occasional Shoppers” shows response to urgent promotional offers. The resulting strategy recommendations aim to develop a more focused and effective marketing strategy with the aim of maximizing revenue while reducing promotional costs."
 
 ### Tableau Project
 [Deck Here](https://docs.google.com/presentation/d/1CjGhoDMDAOV3k68DB8BPS3_pMhxWXed4dQb61xnsVEo/edit?usp=sharing) <br />
