@@ -36,7 +36,7 @@ _This project served as the program's capstone in Full-Stack Data Analytics. Usi
 **Result:** Implement a comprehensive strategy to reduce order cancellation rates in Pakistan's E-commerce, including cluster-specific initiatives targeting loyal, potential and at-risk customers, along with general recommendations to improve communication, product, price and payment optimization, and a focused approach to encourage Cash usage on Delivery (COD), thereby increasing customer satisfaction and operational efficiency.
 
 ### Python Project
-[Deck Here](https://docs.google.com/presentation/d/1d8qtDYvQfkjissR584NiwgIqU73BkpQTI9H8uDehjCw/edit?usp=sharing) <br />
+[Deck Here](https://docs.google.com/presentation/d/19sXnHRkDBV2itVuHZZ9C2Q5HDnLsV20TD-CIv29veZo/edit?usp=sharing) <br />
 [Code Here](https://colab.research.google.com/drive/16AZZ_PcpB7B5ewmlJTUX5ve4FGs-hXfb?usp=sharing)
 
 _This project served as the individual assignment for the Python module's Full-Stack Data Analytics program._
