@@ -27,7 +27,7 @@ Completed the program with all assignments
 
 _This project served as the program's capstone in Full-Stack Data Analytics. Using Spreadsheets, Python and Tableau._
 
-![End to end Data Analytics](/assets/img/DEEP1.png)
+![End to end Data Analytics](/assets/img/DEEP.png)
 
 **Description:** The objective from this analysis is ro reduce order cancellation rates by 15% from 48% in the next six months, by leveraging insights gained from comprehensive analysis of cancellation factors. <br />
  <br />
