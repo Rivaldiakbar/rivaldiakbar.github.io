@@ -41,7 +41,7 @@ _This project served as the program's capstone in Full-Stack Data Analytics. Usi
 
 _This project served as the individual assignment for the Python module's Full-Stack Data Analytics program._
 
-![Python Project](/assets/img/python_project1.png)
+![Python Project](/assets/img/Python_Project.png)
 
 **Description:** A European bank that provides credit cards to its customers wanted a better understanding of spending patterns among its credit card-using customers. They need an analytical approach to reduce promotional costs by discovering business opportunities to customize reward programs for each customer segment using customer segmentation. <br />
  <br />
