@@ -49,13 +49,28 @@ _This project served as the individual assignment for the Python module's Full-S
  <br />
 **Result:** "Through segmentation using the K-Means method and RFM analysis, I succeeded in grouping customers into 3 clusters based on their purchasing behavior. It was found that “Premium Shoppers” showed high transaction activity and positive responses to exclusive promotions. Meanwhile, “Moderate Buyers” has the potential for increased engagement through more detailed segmentation, and “Occasional Shoppers” shows response to urgent promotional offers. The resulting strategy recommendations aim to develop a more focused and effective marketing strategy with the aim of maximizing revenue while reducing promotional costs."
 
+### SQL Project (Google BigQuery)
+[Deck Here](https://docs.google.com/presentation/d/1MmmzQMq69Qb9dTsVdlyVUMqsgEd0QpeUvZp42Ua4v38/edit?usp=sharing) <br />
+[Query Here](https://console.cloud.google.com/bigquery?sq=463715588860:80eb405309864351ab53c5c7a8b6b124) *Sign-in Required
+
+_This project served as the individual assignment for the SQL module's Full-Stack Data Analytics program._
+
+![Tableau Project](/assets/img/sql_project.png)
+
+**Description:** TheLook is a fictitious eCommerce clothing site developed by the Looker team. The dataset contains information about customers, product, orders, logistics, web events and digital marketing campaigns. The contents of this dataset are synthetic, and are provided to industry practitioners for the purpose of product discovery, testing, and evaluation. Currently the company is in the optimization mode caused by potential crisis of 2023. The management has decided to cut off resources in some categories with the lowest growth in the pas 1 year.
+<br />
+ <br />
+**Task:** To provide business insights and recommendations from data analysis (Cohort Analysis, Time series, BCG Matrix)
+ <br />
+**Result:** In a comprehensive analysis of product performance and customer engagement, I identified critical insights that led to strategic shifts in our approach. The analysis highlighted "Socks & Hosiery", "Clothing Sets", and "Jumpsuits & Rompers" as less profitable categories, advising a resource reallocation towards more promising segments. Notably, the inventory's growth recovered impressively from a slow start in January to peak in October, underscoring the need to adapt marketing strategies to capitalize on peak periods and manage fluctuations effectively. Exceptional growth in "Leggings" and "Suits" pointed to areas of strong demand, suggesting a focus on these categories for expansion. Additionally, customer retention analysis revealed low initial rates, emphasizing the importance of enhancing onboarding experiences and tailoring marketing efforts to boost loyalty.
+
+
 ### Tableau Project
 [Deck Here](https://docs.google.com/presentation/d/1CjGhoDMDAOV3k68DB8BPS3_pMhxWXed4dQb61xnsVEo/edit?usp=sharing) <br />
 [Dashboard Here](https://public.tableau.com/views/SteamExecutiveDashboard-VisualizingSteamsBusinessMetrics/STEAMEXECUTIVEDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
-
 _This project served as the individual assignment for the Data Visualization module's Full-Stack Data Analytics program._
 
-![Tableau Project](/assets/img/python_project1.png)
+![Tableau Project](/assets/img/tableau_project.png)
 
 **Description:** The most reputable gaming company named Steam. Company want to utilize more data insight to support company growth. This project's goal is to create dashboard that shows company-wide analytics to better understand business performance <br />
  <br />
@@ -69,11 +84,7 @@ _Individual Assignment at RevoU Full-Stack Data Analytics._
 **Spreadsheet:** <br />
 Business understanding, Data Cleaning & Manipulation, Descriptive Analytics, EDA, Regression: [Google Sheet](https://docs.google.com/spreadsheets/d/1oWXPDHNladlQcUOmKDUtNb-VjAUI8jh2hc4qq5d4yU4/edit?usp=sharing)  <br />
  <br />
-**SQL/Google Big Query:** <br />
-Answering Business Question: [Deck] <br />
-Query: [Google Big Query](https://console.cloud.google.com/bigquery?sq=463715588860:28953c32e0dc4f83bcf7c1adf1f4237e) (*sign in required)
-
 ## Certificate
-- Full-stack Data Analytics - RevoU (December, 2023)
-- Digital Marketing Certification by Badan Nasional Sertifikasi Profesi (BNSP) (November, 2022)
+- [Full-stack Data Analytics - RevoU (December, 2023)](https://click.mlflow.com/link/c/YT0yNDA1MjA3NjI2OTg0OTg3MjA4JmM9dDVmMSZlPTAmYj0xMjc4MzU5MDY1JmQ9czR6MW0zdw==.-CTRy4lMQ6zuOHisoe_rTUxDEbXPzCRz2eAIJ2P80WE)
+- [Digital Marketing Certification by Badan Nasional Sertifikasi Profesi (BNSP) (November, 2022)](https://drive.google.com/file/d/1x8j_ILLkvQoa_5YXuLK2CER2ODlSNaxE/view?usp=sharing)
 
