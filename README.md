@@ -3,13 +3,13 @@
 As an aspiring Data Analyst, I am enthusiastic about applying my data analysis knowledge and skills to real-world experiences. I have a strong understanding and proficiency in practical data analysis platforms, including Excel, SQL (Big Query), Python, and Tableau. I am committed to improving my technical skills and apply my newly acquired skills to build a solid foundation for my career. Recently completed a 3 month Full Stack Data Analytics program at RevoU.
 
 #### Skills: SQL (Google BigQuery), Python 3 (Libraries : Numpy, pandas, scikit-learn, Matplotlib), Tableau, EDA/EDV, Descriptive Statistic, Cohort Analysis, Correlation Analysis, RFM Cluster Analysis, Organization skills, Leadership, Work in Team or Individually, Fast Learner, Critical Thinking.
-
+[View My LinkedIn Profile Here](https://www.linkedin.com/in/rivaldi-akbar/) 
 
 ## Education
-- **Universitas Pendidikan Indonesia (September 2017 – July 2022)** <br />
+### Universitas Pendidikan Indonesia (September 2017 – July 2022)
 Bachelor of Education (B.Ed.) in Community Education (GPA: 3,63)
 								       		
-- **RevoU (September 2023 – December 2023)** <br />
+### RevoU (September 2023 – December 2023)
 Full-stack Data Analytics <br />
 RevoU is an Online Academy that prepares students across Indonesia for most in-demand tech jobs. <br />
 Commit more than 200 hours to active online lectures (excluding assignments) with instructors and mentors from the technology industry such as Shopee, Mekari, HaloDoc, Tokopedia, Blibli.com, etc. Successfully learn the following analytical processes:
@@ -19,8 +19,13 @@ Commit more than 200 hours to active online lectures (excluding assignments) wit
 4. Data storytelling skills to convey recommendations clearly and effectively.<br />
 Completed the program with all assignments
 
+## Working Experiences
+### Data-Savvy Content Creator YouTube & TikTok	, Self-Employed (March 2021 - Present)
+- Developing my YouTube channel to 190,000+ subscribers and my TikTok followers to over 140,000 by analyzing viewer behavior patterns to identify content preferences using YouTube Studio Analytics and Google Ads for in-depth insights.
+- Gaining over 23 million views on YouTube and 1.7 million likes on TikTok by implementing a content calendar informed by quantitative analysis. This strategy optimized posting schedules to maximize audience retention and fuel channel growth.
+
 ## Projects
-### End-to-end Data Analytics Final Project, RevoU
+### Pakistan's E-commerce Analysis
 [Deck Here](https://docs.google.com/presentation/d/1t73Sxwp58UtHs2--A9CwiCZIzCyUs6SVvpq1YGRbVL8/edit?usp=sharing) <br />
 [Code Here](https://colab.research.google.com/drive/1fdYNYKBj5hwh8cT7VgLWbOq0miBlQcEF?usp=sharing) <br />
 [Dash Board Here](https://public.tableau.com/views/FPPAKISTANE-COMMERCE/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
@@ -35,7 +40,7 @@ _This project served as the program's capstone in Full-Stack Data Analytics. Usi
  <br />
 **Result:** Implement a comprehensive strategy to reduce order cancellation rates in Pakistan's E-commerce, including cluster-specific initiatives targeting loyal, potential and at-risk customers, along with general recommendations to improve communication, product, price and payment optimization, and a focused approach to encourage Cash usage on Delivery (COD), thereby increasing customer satisfaction and operational efficiency.
 
-### Python Project
+### A European Bank Analysis
 [Deck Here](https://docs.google.com/presentation/d/19sXnHRkDBV2itVuHZZ9C2Q5HDnLsV20TD-CIv29veZo/edit?usp=sharing) <br />
 [Code Here](https://colab.research.google.com/drive/16AZZ_PcpB7B5ewmlJTUX5ve4FGs-hXfb?usp=sharing)
 
@@ -49,7 +54,7 @@ _This project served as the individual assignment for the Python module's Full-S
  <br />
 **Result:** "Through segmentation using the K-Means method and RFM analysis, I succeeded in grouping customers into 3 clusters based on their purchasing behavior. It was found that “Premium Shoppers” showed high transaction activity and positive responses to exclusive promotions. Meanwhile, “Moderate Buyers” has the potential for increased engagement through more detailed segmentation, and “Occasional Shoppers” shows response to urgent promotional offers. The resulting strategy recommendations aim to develop a more focused and effective marketing strategy with the aim of maximizing revenue while reducing promotional costs."
 
-### SQL Project (Google BigQuery)
+### TheLook E-commerce Analysis
 [Deck Here](https://docs.google.com/presentation/d/1MmmzQMq69Qb9dTsVdlyVUMqsgEd0QpeUvZp42Ua4v38/edit?usp=sharing) <br />
 [Query Here](https://console.cloud.google.com/bigquery?sq=463715588860:80eb405309864351ab53c5c7a8b6b124) *Sign-in Required
 
@@ -65,9 +70,10 @@ _This project served as the individual assignment for the SQL module's Full-Stac
 **Result:** In a comprehensive analysis of product performance and customer engagement, I identified critical insights that led to strategic shifts in our approach. The analysis highlighted "Socks & Hosiery", "Clothing Sets", and "Jumpsuits & Rompers" as less profitable categories, advising a resource reallocation towards more promising segments. Notably, the inventory's growth recovered impressively from a slow start in January to peak in October, underscoring the need to adapt marketing strategies to capitalize on peak periods and manage fluctuations effectively. Exceptional growth in "Leggings" and "Suits" pointed to areas of strong demand, suggesting a focus on these categories for expansion. Additionally, customer retention analysis revealed low initial rates, emphasizing the importance of enhancing onboarding experiences and tailoring marketing efforts to boost loyalty.
 
 
-### Tableau Project
+### Steam (Gaming Company) Dashboard
 [Deck Here](https://docs.google.com/presentation/d/1CjGhoDMDAOV3k68DB8BPS3_pMhxWXed4dQb61xnsVEo/edit?usp=sharing) <br />
-[Dashboard Here](https://public.tableau.com/views/SteamExecutiveDashboard-VisualizingSteamsBusinessMetrics/STEAMEXECUTIVEDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Dashboard Here](https://public.tableau.com/views/SteamExecutiveDashboard-VisualizingSteamsBusinessMetrics/STEAMEXECUTIVEDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link) <br />
+<br />
 _This project served as the individual assignment for the Data Visualization module's Full-Stack Data Analytics program._
 
 ![Tableau Project](/assets/img/tableau_project.png)
